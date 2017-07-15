@@ -1,1 +1,1 @@
-web: java -jar target/social-auth-server-0.0.1-SNAPSHOT.jar
+web: ./mvnw -DskipTests spring-boot:run
